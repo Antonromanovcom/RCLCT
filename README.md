@@ -1,2 +1,2 @@
-# RCLCT
-Reso Calc Log Compare Tool
+# RCL
+Reso Calc Log Compare
